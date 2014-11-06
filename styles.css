@@ -1,0 +1,95 @@
+body{
+color: #242424;
+font: normal 75% Verdana,Sans-serif;
+margin: 0;
+}
+#top{
+text-align: center;
+overflow: hidden;
+margin: auto;
+width: 681px;
+}
+
+#logo{
+background: transparent url(images/logo_med2.png);
+}
+
+.t1, #logo{
+width: 227px;
+float:left;
+height: 236px;
+}
+
+.t1{
+display: table;
+}
+
+.inner-t1{
+display: table-cell;
+vertical-align: middle;
+}
+
+.inner-t1 a{
+text-decoration: none;
+color: white;
+}
+
+#back-bar{
+z-index: -1;
+height: 115px;
+width: 100%;
+background-color: #ABCDE6;
+position: relative;
+top: -177px;
+}
+
+.btn{
+padding: 5px;
+background-color: #599FD3;
+width: 65px;
+border-radius: 5px;
+margin: auto;
+}
+
+#server-info{
+margin-top: -100px;
+text-align: center;
+min-width: 681px;
+}
+
+#content{
+margin-top: 10px;
+min-width: 681px;
+}
+
+.page-title{
+text-align: center;
+}
+
+.news-block{
+line-height: 1.5;
+width: 65%;
+margin: auto;
+background-color: #ddd;
+padding: 10px;
+border-radius: 5px;
+margin-bottom: 20px;
+}
+
+.news-title{
+font-size: 1.1em;
+font-weight: bold;
+}
+
+.news-author{
+font-style:italic;
+}
+
+
+#footer{
+line-height: 1.5;
+font-size: .9em;
+margin-top: 30px;
+text-align: center;
+min-width: 681px;
+}
