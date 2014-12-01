@@ -3,35 +3,17 @@ color: #242424;
 font: normal 75% Verdana,Sans-serif;
 margin: 0;
 }
+
 #top{
 text-align: center;
 overflow: hidden;
 margin: auto;
-width: 681px;
+width: 227px;
 }
 
 #logo{
-background: transparent url(images/logo_med2.png);
-}
-
-.t1, #logo{
-width: 227px;
-float:left;
+background: transparent url(images/logo_med2.png) no-repeat;
 height: 236px;
-}
-
-.t1{
-display: table;
-}
-
-.inner-t1{
-display: table-cell;
-vertical-align: middle;
-}
-
-.inner-t1 a{
-text-decoration: none;
-color: white;
 }
 
 #back-bar{
@@ -41,14 +23,6 @@ width: 100%;
 background-color: #ABCDE6;
 position: relative;
 top: -177px;
-}
-
-.btn{
-padding: 5px;
-background-color: #599FD3;
-width: 65px;
-border-radius: 5px;
-margin: auto;
 }
 
 #server-info{
