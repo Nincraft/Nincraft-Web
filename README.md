@@ -1,4 +1,4 @@
-nincraft.com
+Nincraft Web
 ============
 
-The pretty eh nincraft.com repo
+The pretty eh Nincraft Web repo
